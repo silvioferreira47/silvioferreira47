@@ -1,16 +1,14 @@
-## Hi there 👋
+# Olá, me chamo Silvio 
+## Sou estudante, desenvolvedor em formação, sou muito interessado em tecnologia, mesmo que ainda não saiba muito
 
-<!--
-**silvioferreira47/silvioferreira47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Atualmente estudo
+- HTML
+- CSS
+- Markdown
+## Pretendo aprender
+- C#
+- Java
+- Python
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Se estiver interessado, pode me encontrar no [GitHub](https://github.com/silvioferreira47)
+  
