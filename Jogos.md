@@ -8,6 +8,24 @@
 [Crash Team Racing](https://sto.romsfast.com/PSX/CTR%20-%20Crash%20Team%20Racing%20(USA).zip?token=c3xZcFthDAJOFXF8UX4AZVhRThYjdVl%2BWTEOBE4Vd3xdflAzClcIEHZxUH1RaVtSQw%3D%3D)
 
 [Jackie Chan Stuntmaster
-]()
+](https://serve.emulatorgames.net/roms/playstation/Jackie%20Chan%20Stuntmaster%20[NTSC-U]%20[SLUS-00684].7z)
 
 #### PS2
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
