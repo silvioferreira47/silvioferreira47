@@ -18,9 +18,9 @@
 
 [Grand Theft Auto: Vice City](https://sto1.romsforever.co/0:/PS2-CHD/Grand%20Theft%20Auto%20-%20Vice%20City%20(USA)%20(v3.00).chd?token=c3xZcFthDAJOFXF8UX4AZVhRThYjdVl%2BWTEOBE4Vd3xdflAzClcIEHZxUH1QYFxRTQ%3D%3D)
 
-[Tony Hawk's Pro Skater]()
+[Tony Hawk's Pro Skater](https://sto.romsfast.com/PS2-Redump/Tony%20Hawks%20Pro%20Skater%204%20(USA)%20(v2.01).zip?token=c3xZcFthDAJOFXF8UX4AZVhRThYjdVl%2BWTEOBE4Vd3xdflAzClcIEHZxUH1QYF9VRQ%3D%3D)
 
-[Resident 4]()
+[Resident 4](https://sto1.romsforever.co/0:/PS2-CHD/Resident%20Evil%204%20(USA).chd?token=c3xZcFthDAJOFXF8UX4AZVhRThYjdVl%2BWTEOBE4Vd3xdflAzClcIEHZxUH1QYFBRTQ%3D%3D)
 
 [Metal Gear Solid 3: Snake Eater]()
 
